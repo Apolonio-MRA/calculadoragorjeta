@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">calculadoragorgeta</string>
+    <string name="hintValorConta">Valor da conta</string>
+    <string name="ValorDaGorgeta">Valor da Gorgeta</string>
+    <string name="hintValorTotal">Valor Toral</string>
+    <string name="hintValoConta">Valor da Conta</string>
+    <string name="porcentagem">Porcentagem</string>
+</resources>
